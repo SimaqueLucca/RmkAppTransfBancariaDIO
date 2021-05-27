@@ -1,0 +1,16 @@
+C:\Users\Luca Simaque Souza\Desktop\RmkTransBancaria\bin\Debug\net5.0\RmkTransBancaria.exe
+C:\Users\Luca Simaque Souza\Desktop\RmkTransBancaria\bin\Debug\net5.0\RmkTransBancaria.deps.json
+C:\Users\Luca Simaque Souza\Desktop\RmkTransBancaria\bin\Debug\net5.0\RmkTransBancaria.runtimeconfig.json
+C:\Users\Luca Simaque Souza\Desktop\RmkTransBancaria\bin\Debug\net5.0\RmkTransBancaria.runtimeconfig.dev.json
+C:\Users\Luca Simaque Souza\Desktop\RmkTransBancaria\bin\Debug\net5.0\RmkTransBancaria.dll
+C:\Users\Luca Simaque Souza\Desktop\RmkTransBancaria\bin\Debug\net5.0\ref\RmkTransBancaria.dll
+C:\Users\Luca Simaque Souza\Desktop\RmkTransBancaria\bin\Debug\net5.0\RmkTransBancaria.pdb
+C:\Users\Luca Simaque Souza\Desktop\RmkTransBancaria\obj\Debug\net5.0\RmkTransBancaria.csprojAssemblyReference.cache
+C:\Users\Luca Simaque Souza\Desktop\RmkTransBancaria\obj\Debug\net5.0\RmkTransBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca Simaque Souza\Desktop\RmkTransBancaria\obj\Debug\net5.0\RmkTransBancaria.AssemblyInfoInputs.cache
+C:\Users\Luca Simaque Souza\Desktop\RmkTransBancaria\obj\Debug\net5.0\RmkTransBancaria.AssemblyInfo.cs
+C:\Users\Luca Simaque Souza\Desktop\RmkTransBancaria\obj\Debug\net5.0\RmkTransBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Luca Simaque Souza\Desktop\RmkTransBancaria\obj\Debug\net5.0\RmkTransBancaria.dll
+C:\Users\Luca Simaque Souza\Desktop\RmkTransBancaria\obj\Debug\net5.0\ref\RmkTransBancaria.dll
+C:\Users\Luca Simaque Souza\Desktop\RmkTransBancaria\obj\Debug\net5.0\RmkTransBancaria.pdb
+C:\Users\Luca Simaque Souza\Desktop\RmkTransBancaria\obj\Debug\net5.0\RmkTransBancaria.genruntimeconfig.cache
